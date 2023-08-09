@@ -9,6 +9,6 @@ ItemList: Display a list of items retrieved from the backend (Task 1) in a visua
 AddItemForm: Provide a form with input fields for adding a new item (name and description). Upon submission, it should trigger the creation of a new item in the backend (Task 1). 
 EditItemForm: Provide a form with input fields pre-populated with an existing item's data (name and description). Users should be able to modify the data and submit the form to update the item's details in the backend (Task 1).
 
-Task 3: Styling with Tailwind CSS Apply Tailwind CSS to style your components from Task 2. The application should have a clean and modern design with proper layout and responsive elements.
+Task 3: Styling with Tailwind CSS Apply Tailwind CSS to style your components from Task 2. The application should have a clean and modern design with a proper layout and responsive elements.
 
 Task 4: Database Integration Choose either MongoDB or PostgreSQL as your database for this application. Perform the necessary integration to store and retrieve data related to the items from the database.
